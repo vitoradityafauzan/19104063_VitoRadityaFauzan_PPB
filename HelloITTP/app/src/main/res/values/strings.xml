@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello ITTP</string>
+    <string name="ques_name">Nama Mahasiswa</string>
+    <string name="mein_name">Vito Raditya Fauzan</string>
+    <string name="ques_nim">Nim Mahasiswa</string>
+    <string name="my_nim">19104063</string>
+    <string name="ganti_halaman">Ganti Halaman</string>
+</resources>
